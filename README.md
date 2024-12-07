@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Biielzinho7dev 😁
+## Bem-vindo(a) ao perfil do João Gabriel😁
 
  <div>
    <a href="https://github.com/Biielzinho7dev">
