@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do João Gabriel😁
 
  <div>
-   <a href="https://github.com/Biielzinho7dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biielzinho7dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biielzinho7dev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/JoaoGabriel">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
